@@ -2,12 +2,10 @@
 This is a repository of hobby machine learning projects which covers topics such is Supervised learning (Knn, Kmeans, Decision Trees and SVMs), Unsupervised learning (QLearning) as well as NLP and GPT based predictor.
 
 
-##Trump Tweet Generator using NLP and GPT
+## Trump Tweet Generator using NLP and GPT
 In this fun project I build a Trump tweet generator using a GPT2 transformer from the Hugging Face library
 
-https://github.com/Kushcode01/Applied-Machine-Learning-Projects/assets/58338192/589c49d1-e71d-4581-824d-13b8d80f60e9
-
-
+![Untitled-video-Made-with-Clipchamp](https://github.com/Kushcode01/Applied-Machine-Learning-Projects/assets/58338192/0933f563-d073-4411-bcb5-9a58074509eb)
 
 ## KNN, KMeans and Decision Trees
 In this Problem we are given with two data sets of red and synthetic wines. 
